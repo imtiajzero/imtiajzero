@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imtiajzero
+- 👋 Hi, I’m Imtiaj
 - 👀 I’m interested in Watching Movie
 - 🌱 I’m currently learning Python
 - 📫 How to reach me **imtiajaurpon@gmail.com**
