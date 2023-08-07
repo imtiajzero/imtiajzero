@@ -1,7 +1,8 @@
 # <h1 align="center">Hi, I'm Imtiaj 👋  </h1>
 ###  <div align="center"> I'm a Student, Programmer, Tech Enthusiast  ![profile views](https://komarev.com/ghpvc/?username=imtiajzero&color=red) </div>
- <div align="center"> 🔭 Studies in Information and Communication Technology </div>
- <br> 
+ <div align="center"> 🔭 Studies in Information and Communication Technology, </div>
+ <div align="center"> 🔭 Comilla University </div>
+ <br>
 <h4 align="center">📫 How to reach me: </h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/imtiaj-aurpon-24a8b6286/"><img src="https://img.shields.io/badge/-Imtiaj%20Aurpon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
