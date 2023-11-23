@@ -11,7 +11,7 @@
 
 ### Where I solve problems
 
-[![LeetCode user imtiajzero](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaiful70&logo=leetcode&logoColor=yellow)](https://leetcode.com/saiful70/)
+[![LeetCode user imtiajzero](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaiful70&logo=leetcode&logoColor=yellow)](https://leetcode.com/imtiaj.zero/)
 [![Codeforces](https://cp-logo.vercel.app/codeforces/imtiaj.zero?logo=true)](https://codeforces.com/profile/imtiaj.zero)
 
 ### Things I code with
